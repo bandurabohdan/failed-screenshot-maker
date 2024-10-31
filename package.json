@@ -7,8 +7,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bandurabohdan/failed-screenshot-maker.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "bodyabandura",
   "license": "ISC",
   "description": "",
   "dependencies": {
